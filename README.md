@@ -6,7 +6,7 @@ this project overcome the manual problem (writing data on paper)
 Home page
 ----------
 
-![hone](https://user-images.githubusercontent.com/69120089/130318996-dca2986f-37c0-4900-8056-6e1a74153464.png)
+![hone]
 
 Login page
 ----------
